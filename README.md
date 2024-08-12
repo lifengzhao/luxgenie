@@ -7,7 +7,7 @@ Currently only .jpg and .cr2 files are supported.
 
 
 Usage:
-1. Run code only, images in all subdirs of current folder will be assessed, and a "results.csv" file will be saved.
+1. Run code only, images in all subdirs of current folder will be assessed, and a "results.csv" file will be saved.<br>
    `python OCNW_pattern_quality.py`
-2. Run the code with one image file name as input, will print out the assessment result, no file saved. 
+2. Run the code with one image file name as input, will print out the assessment result, no file saved. <br>
    `python OCNW_pattern_quality.py image_file_name.jpg`
