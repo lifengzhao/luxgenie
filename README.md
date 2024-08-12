@@ -1,6 +1,8 @@
 # Nonwoven Material Image Embossing Pattern Quality Assessment
 
-Nonwoven embossing qualitiy assessment tool by image processing. The template is like below. 
+Nonwoven embossing qualitiy assessment tool by image processing. Quality results is a number in [0, 1] for one image, higher is better. 
+
+The template is like below. 
 ![Pattern](https://github.com/lifengzhao/nonwoven_image_pattern_quality/blob/main/template_thicken4.png 'pattern')
 
 Currently only .jpg and .cr2 files are supported.
